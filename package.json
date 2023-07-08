@@ -1,0 +1,24 @@
+{
+  "name": "dashboard-template",
+  "version": "1.0.0",
+  "description": "Dashboard made with next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.4.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.1",
+    "@types/react": "18.2.14",
+    "prettier": "^3.0.0",
+    "typescript": "^5.1.6"
+  },
+  "repository": "git@github.com:abeia-dev/dashboard-template.git",
+  "author": "@abeia.dev",
+  "license": "MIT",
+  "private": false
+}
